@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Machine learning for genomic data insights.**
 
-- 📫 How to reach me **urbazafar.202101881@gcuf.edu.pk**
+- 📫 How to reach me **uzafar.msbi26sines@student.nust.edu.pk**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
